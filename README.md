@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Beüzemelés
 
 
@@ -35,3 +36,17 @@ WEB
 	    -show answers gomb megjeleniti a valaszt amit az aszali appban irtunk jobb oldalt
 	-kitoltes alatt megjeleniti a kerdoivhez elmentett kerdeseket es valaszokat
 
+=======
+# alkfej1Web
+
+
+Webes alkalmazás funkciói:
+  - Kérdéssor kitöltése
+  - Csak akkor lehetséges, ha a kérdéssor feltételei teljesülnek
+  - Rögzíteni kell a kitöltő nevét és a kitöltés időpontját.
+  - Kérdéssort nem lehet folytatni.
+  
+Az alkalmazás http://localhost:8080/FirstWebMaven_war/survey címen lesz elérhetö.
+
+Rajki Zsombor Milán - VS92AH
+>>>>>>> 2b539bb79b7db357281b4316c1ce9770c4b8e97c
